@@ -20,7 +20,7 @@ nav a{
 #main{
   width:100%;
   height: 768px;
-  background-image: url("/img/pc_title.jpg");
+  background-image: url("../img/pc_title.jpg");
   background-size: cover;
   position: relative;  
 }
@@ -145,7 +145,7 @@ nav a{
 #better{
   width:100%;
   height: 768px;
-  background-image: url("/img/pc_title02.jpg");
+  background-image: url("../img/pc_title02.jpg");
   background-size: cover;
   clear: both;
 }
@@ -187,7 +187,7 @@ footer .container{
     border-bottom: 1px solid gray;
   }
   #main{
-    background-image: url("/img/mobile_title.jpg");
+    background-image: url("../img/mobile_title.jpg");
   }
 
   #main h1{
@@ -215,7 +215,7 @@ footer .container{
   }
 
   #better{
-    background-image: url("/img/mobile_title02.jpg");
+    background-image: url("../img/mobile_title02.jpg");
   }
 
   #slider h1{
